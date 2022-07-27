@@ -1,0 +1,16 @@
+body{
+background-color:yellow;
+}
+#score{
+font-size: 30px;
+margin-left: 1px;
+float:left;
+}
+#timer{
+font-size: 30px;
+float:right;
+margin-right:1px;
+}
+#Confidence{
+color:red;
+}
